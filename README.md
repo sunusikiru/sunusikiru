@@ -1,7 +1,7 @@
 # Hey there, I’m Sunusi Kiru! 👋
 
-- 👀 I’m passionate about **PHP** and backend development  
-- 🌱 Currently learning more about **PHP** and **Node.js**  
+- 👀 I’m a **Professional PHP Developer**  
+- 🌱 Currently learning **Node.js**  
 - 💻 I specialize in form design, USSD services, and API integrations  
 - 💞️ I’m open to collaborating on **software development** and **freelance tech projects**  
 - 📫 You can reach me via email: [vtutelecom.ng@gmail.com](mailto:vtutelecom.ng@gmail.com)  
